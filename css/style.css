@@ -11,6 +11,15 @@ button:focus {
 	outline: none !important;
 }
 
+    .swiper-slide {
+        background-size: contain !important;
+        background-repeat: no-repeat;
+		background-position: center !important;
+    }
+
+
+
+
 
 button::-moz-focus-inner {
 	border: 0;
