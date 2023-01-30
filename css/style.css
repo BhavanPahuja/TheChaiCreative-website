@@ -11,6 +11,14 @@ button:focus {
 	outline: none !important;
 }
 
+.tab-content .tab-pane {
+	display: none !important;
+  }
+
+  .tab-content  .active {
+	display: block !important;
+  }
+
     .swiper-slide {
         background-size: contain !important;
         background-repeat: no-repeat;
